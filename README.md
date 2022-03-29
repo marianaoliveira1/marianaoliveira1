@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá 👋
+
+- Desenvolvedora Mobile
+- Graduanda em Ciência da Computação, pela Universidade Federal do Ceará
+- Linguagens: Flutter, Kotlin, React Native, NodeJs,.Net, ReactJs e Angular
 
 <!--
 **marianaoliveira1/marianaoliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
