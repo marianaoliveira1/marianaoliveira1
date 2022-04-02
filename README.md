@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Desenvolvedora Mobile
+- Desenvolvedora FullStack (ReactJs e NodeJs) e mobile (Flutter e React Native)
 - Graduanda em Ciência da Computação, pela Universidade Federal do Ceará
 - Linguagens: Flutter, Kotlin, React Native, NodeJs,.Net, ReactJs e Angular
 
