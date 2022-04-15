@@ -1,20 +1,8 @@
-### Olá 👋
+## Olá 👋 eu sou a Mariana
 
-- Desenvolvedora FullStack (ReactJs e NodeJs) e mobile (Flutter e React Native)
-- Graduanda em Ciência da Computação, pela Universidade Federal do Ceará
-- Linguagens: Flutter, Kotlin, React Native, NodeJs,.Net, ReactJs e Angular
+- :books:  Estudante de Ciência da Computação, pela Universidade Federal do Ceará
 
-<!--
-**marianaoliveira1/marianaoliveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: Desenvolvedora FullStack e Mobile
+- :zap: Principais tecnologias <strong>Javascript, HTML, CSS, ReactJs, NodeJs, Flutter, React Native, NextJs, .Net </strong> 
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianaoliveira11/)](https://www.linkedin.com/in/marianaoliveira11/)
